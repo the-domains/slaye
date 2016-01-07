@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Slaye]]></title>
+        <description><![CDATA[Slaye]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 22:46:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Modern & Mythic Fantasy]]></title>
+            <description><![CDATA[<article><h1>Modern & Mythic Fantasy</h1><p>Start playing now on your desktop, keep playing on the way home on your phone, and finish up with your tablet in the evening!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66caed79d1dde740ab16b073b3187cac3a623013.jpg"></article>]]></description>
+            <link>undefinedmodern-and-mythic-fantasy/index.html</link>
+            <guid isPermaLink="false">e2c9c418-ab3c-4753-9c65-eb07223d81ce</guid>
+            <pubDate>Thu, 07 Jan 2016 22:46:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
