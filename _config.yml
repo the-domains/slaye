@@ -1,0 +1,28 @@
+name: Slaye
+favicon: null
+layout_spectrum: 0.3413861880544573
+typography_spectrum: 0.25541489478200674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.048831256572157145
+  lightness: 0.30755104520358145
+  saturation: 0.7083669221028686
+  rhythmicContrast: 0.925449508940801
+purpose: []
